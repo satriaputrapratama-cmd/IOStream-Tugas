@@ -1,0 +1,2 @@
+Belajar Pemrograman Berorientasi Objek - IO Stream.
+Menulis data ke dalam file teks.
